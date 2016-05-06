@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{23600EDB-3F69-F3FC-317F-8846FB6C890C}") = "Dejavu PT clone", "Assembly-CSharp.csproj", "{17096A9B-38D3-652C-2836-BA622F89815B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17096A9B-38D3-652C-2836-BA622F89815B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17096A9B-38D3-652C-2836-BA622F89815B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17096A9B-38D3-652C-2836-BA622F89815B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17096A9B-38D3-652C-2836-BA622F89815B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
