@@ -21,6 +21,7 @@ public class PickupObjects : MonoBehaviour {
 		if (carrying) {
 
 			carry (carriedObject);
+			checkDrop ();
 		} else {
 
 			pickup();
@@ -29,13 +30,13 @@ public class PickupObjects : MonoBehaviour {
 
 	void carry(GameObject o){
 		
-		o.GetComponent<Rigidbody>().isKinematic = true;
 		o.transform.position = Vector3.Lerp(o.transform.position, mainCamera.transform.position + mainCamera.transform.forward * distance, Time.deltaTime * smooth);
+		o.transform.rotation = Quaternion.identity;
 	}
 
 	void pickup(){
 
-		if(Input.GetKeyDown(KeyCode.E)){
+		if(Input.GetKeyDown(KeyCode.E) || Input.GetKeyDown(KeyCode.Joystick1Button2)){
 
 			int x = Screen.width / 2;
 			int y = Screen.height / 2;
@@ -51,8 +52,24 @@ public class PickupObjects : MonoBehaviour {
 
 					carrying = true;
 					carriedObject = p.gameObject;
+					p.gameObject.GetComponent<Rigidbody>().useGravity = false;
 				}
 			}
 		}
+	}
+
+	void checkDrop(){
+
+		if(Input.GetKeyDown(KeyCode.E) || Input.GetKeyDown(KeyCode.Joystick1Button2)){
+
+			dropObject ();
+		}
+	}
+
+	void dropObject(){
+
+		carrying = false;
+		carriedObject.gameObject.GetComponent<Rigidbody>().useGravity = true;
+		carriedObject = null;
 	}
 }

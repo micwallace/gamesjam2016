@@ -48,6 +48,8 @@
      <Compile Include="Assets\DisableVR.cs" />
      <Compile Include="Assets\PickupObjects.cs" />
      <Compile Include="Assets\Pickupable.cs" />
+     <Compile Include="Assets\Scripts\cameraLook.cs" />
+     <Compile Include="Assets\Scripts\playermovement.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
