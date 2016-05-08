@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PickupObjects.cs">
     <Files>
-      <File FileName="Assets\DisableVR.cs" Line="11" Column="30" />
+      <File FileName="Assets\UIManager.cs" Line="25" Column="23" />
       <File FileName="Assets\PickupObjects.cs" Line="63" Column="71" />
-      <File FileName="Assets\Scripts\playermovement.cs" Line="97" Column="40" />
+      <File FileName="Assets\Scripts\playermovement.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

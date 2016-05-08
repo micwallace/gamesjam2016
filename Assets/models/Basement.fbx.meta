@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 89e95f89d2886b240be9b7a86f3dc436
+timeCreated: 1462687396
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Basement
+    100004: Basement_Window1
+    100006: Basement_Window2
+    100008: Box_MED
+    100010: Box_SML
+    100012: CeilingLight2
+    100014: Heater1
+    100016: Kitchen_DiningRoom
+    100018: KitchenGRP
+    100020: Pipes
+    100022: Pipes2
+    100024: polySurface1
+    100026: pPlane1
+    100028: pPlane1 1
+    100030: Shelf
+    100032: Stairs
+    100034: Supports1
+    100036: WashingMachine
+    100038: Work_Bench
+    400000: //RootNode
+    400002: Basement
+    400004: Basement_Window1
+    400006: Basement_Window2
+    400008: Box_MED
+    400010: Box_SML
+    400012: CeilingLight2
+    400014: Heater1
+    400016: Kitchen_DiningRoom
+    400018: KitchenGRP
+    400020: Pipes
+    400022: Pipes2
+    400024: polySurface1
+    400026: pPlane1
+    400028: pPlane1 1
+    400030: Shelf
+    400032: Stairs
+    400034: Supports1
+    400036: WashingMachine
+    400038: Work_Bench
+    2300000: Basement_Window1
+    2300002: Basement_Window2
+    2300004: Box_MED
+    2300006: Box_SML
+    2300008: CeilingLight2
+    2300010: Heater1
+    2300012: Pipes
+    2300014: Pipes2
+    2300016: polySurface1
+    2300018: pPlane1
+    2300020: pPlane1 1
+    2300022: Shelf
+    2300024: Stairs
+    2300026: Supports1
+    2300028: WashingMachine
+    2300030: Work_Bench
+    3300000: Basement_Window1
+    3300002: Basement_Window2
+    3300004: Box_MED
+    3300006: Box_SML
+    3300008: CeilingLight2
+    3300010: Heater1
+    3300012: Pipes
+    3300014: Pipes2
+    3300016: polySurface1
+    3300018: pPlane1
+    3300020: pPlane1 1
+    3300022: Shelf
+    3300024: Stairs
+    3300026: Supports1
+    3300028: WashingMachine
+    3300030: Work_Bench
+    4300000: polySurface1
+    4300002: Basement_Window1
+    4300004: pPlane1
+    4300006: Basement_Window2
+    4300008: pPlane1
+    4300010: CeilingLight2
+    4300012: WashingMachine
+    4300014: Box_SML
+    4300016: Box_MED
+    4300018: Pipes2
+    4300020: Shelf
+    4300022: Pipes
+    4300024: Work_Bench
+    4300026: Stairs
+    4300028: Supports1
+    4300030: Heater1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

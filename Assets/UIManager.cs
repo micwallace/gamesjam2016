@@ -1,14 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
-using UnityEngine.VR;
 using UnityEngine.SceneManagement;
 
-public class DisableVR : MonoBehaviour {
+
+public class UIManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
 	
-		VRSettings.enabled = false;
 	}
 	
 	// Update is called once per frame
@@ -16,15 +15,13 @@ public class DisableVR : MonoBehaviour {
 	
 	}
 
-	public void disableVR(){
-		
-		VRSettings.enabled = false;
+	public void start(){
+
 		SceneManager.LoadScene ("GameScene");
 	}
 
-	public void enableVR(){
+	public void quit(){
 
-		VRSettings.enabled = true;
-		SceneManager.LoadScene ("GameScene");
+		Application.Quit ();
 	}
 }
