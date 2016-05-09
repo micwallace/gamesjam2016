@@ -277,6 +277,56 @@ ModelImporter:
     4300094: Book9
     4300096: Book10
     4300098: Lamp
+    6400000: Bed
+    6400002: Bedroom
+    6400004: BedSheet
+    6400006: Bedside_Draw1
+    6400008: Bedside_Draw2
+    6400010: Bedside_Draw3
+    6400012: Bedside_Draw4
+    6400014: BedsideTable
+    6400016: BedsideTable2
+    6400018: Book1
+    6400020: Book10
+    6400022: Book2
+    6400024: Book3
+    6400026: Book4
+    6400028: Book5
+    6400030: Book6
+    6400032: Book7
+    6400034: Book8
+    6400036: Book9
+    6400038: Bookcase
+    6400040: Bookshelf1
+    6400042: Bookshelf2
+    6400044: Bookshelf3
+    6400046: CeilingLight
+    6400048: Chair
+    6400050: Cupbaord_Door_R
+    6400052: Cupboard
+    6400054: Cupboard_Door_L
+    6400056: Cupboard_Draw
+    6400058: Desk
+    6400060: Desk_Draw1
+    6400062: Desk_Draw2
+    6400064: Desk_Draw3
+    6400066: Door
+    6400068: Door_Knob
+    6400070: Lamp
+    6400072: LightSwitch
+    6400074: LightSwitch_Housing
+    6400076: Picture_Frame_Large
+    6400078: Picture_Frame_Medium
+    6400080: Picture_Frame_Small
+    6400082: Picture_Frame_Small1
+    6400084: Picture_Frame_Small2
+    6400086: Pillow1
+    6400088: Pillow2
+    6400090: Rug
+    6400092: Skirting
+    6400094: Window_Frame
+    6400096: Window_Pane1
+    6400098: Window_Pane2
   materials:
     importMaterials: 1
     materialName: 0
@@ -303,7 +353,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

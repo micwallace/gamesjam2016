@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: f87b775cc499d2342aa2801340fbb0ed
+timeCreated: 1462779049
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cabinet_Base
+    100002: Cabinet_Divider1
+    100004: Cabinet_Divider2
+    100006: Cabinet_Door_FL
+    100008: Cabinet_Door_FL1
+    100010: Cabinet_Door_FR
+    100012: Cabinet_Door_L
+    100014: Cabinet_Door_R
+    100016: Cabinet_Door_TR
+    100018: Cabinet_frame
+    100020: Cabinet_Shelf1
+    100022: Cabinet_Shelf_small1
+    100024: Cabinet_Shelf_small2
+    100026: CabinetGRP
+    100028: Coffee_Table
+    100030: Coffee_Table_Top
+    100032: Cushion1
+    100034: Cushion2
+    100036: Door
+    100038: Door 1
+    100040: Door_Knob
+    100042: Door_Knob4
+    100044: DoorGRP
+    100046: Font_DoorGRP
+    100048: Front_Door_Handle_Inner
+    100050: Front_Door_Handle_Inner 1
+    100052: Front_Door_Handle_Outer
+    100054: Front_Door_Handle_Outer 1
+    100056: Front_Door_L
+    100058: Front_Door_L 1
+    100060: Front_Door_R
+    100062: Front_Door_R 1
+    100064: LightGRP
+    100066: Lounge
+    100068: LoungeGRP
+    100070: Main_Room
+    100072: //RootNode
+    100074: MainRoomGRP
+    100076: pCube23
+    100078: pCube24
+    100080: pCube25
+    100082: pCube26
+    100084: pCube27
+    100086: pCube28
+    100088: Raining
+    100090: Rug2
+    100092: Skirting
+    100094: Table_small
+    400000: Cabinet_Base
+    400002: Cabinet_Divider1
+    400004: Cabinet_Divider2
+    400006: Cabinet_Door_FL
+    400008: Cabinet_Door_FL1
+    400010: Cabinet_Door_FR
+    400012: Cabinet_Door_L
+    400014: Cabinet_Door_R
+    400016: Cabinet_Door_TR
+    400018: Cabinet_frame
+    400020: Cabinet_Shelf1
+    400022: Cabinet_Shelf_small1
+    400024: Cabinet_Shelf_small2
+    400026: CabinetGRP
+    400028: Coffee_Table
+    400030: Coffee_Table_Top
+    400032: Cushion1
+    400034: Cushion2
+    400036: Door
+    400038: Door 1
+    400040: Door_Knob
+    400042: Door_Knob4
+    400044: DoorGRP
+    400046: Font_DoorGRP
+    400048: Front_Door_Handle_Inner
+    400050: Front_Door_Handle_Inner 1
+    400052: Front_Door_Handle_Outer
+    400054: Front_Door_Handle_Outer 1
+    400056: Front_Door_L
+    400058: Front_Door_L 1
+    400060: Front_Door_R
+    400062: Front_Door_R 1
+    400064: LightGRP
+    400066: Lounge
+    400068: LoungeGRP
+    400070: Main_Room
+    400072: //RootNode
+    400074: MainRoomGRP
+    400076: pCube23
+    400078: pCube24
+    400080: pCube25
+    400082: pCube26
+    400084: pCube27
+    400086: pCube28
+    400088: Raining
+    400090: Rug2
+    400092: Skirting
+    400094: Table_small
+    2300000: Cabinet_Base
+    2300002: Cabinet_Divider1
+    2300004: Cabinet_Divider2
+    2300006: Cabinet_Door_FL
+    2300008: Cabinet_Door_FL1
+    2300010: Cabinet_Door_FR
+    2300012: Cabinet_Door_L
+    2300014: Cabinet_Door_R
+    2300016: Cabinet_Door_TR
+    2300018: Cabinet_frame
+    2300020: Cabinet_Shelf1
+    2300022: Cabinet_Shelf_small1
+    2300024: Cabinet_Shelf_small2
+    2300026: Coffee_Table
+    2300028: Coffee_Table_Top
+    2300030: Cushion1
+    2300032: Cushion2
+    2300034: Door
+    2300036: Front_Door_L
+    2300038: Front_Door_R
+    2300040: Lounge
+    2300042: Main_Room
+    2300044: pCube23
+    2300046: pCube24
+    2300048: pCube25
+    2300050: pCube26
+    2300052: pCube27
+    2300054: pCube28
+    2300056: Raining
+    2300058: Rug2
+    2300060: Skirting
+    2300062: Table_small
+    3300000: Cabinet_Base
+    3300002: Cabinet_Divider1
+    3300004: Cabinet_Divider2
+    3300006: Cabinet_Door_FL
+    3300008: Cabinet_Door_FL1
+    3300010: Cabinet_Door_FR
+    3300012: Cabinet_Door_L
+    3300014: Cabinet_Door_R
+    3300016: Cabinet_Door_TR
+    3300018: Cabinet_frame
+    3300020: Cabinet_Shelf1
+    3300022: Cabinet_Shelf_small1
+    3300024: Cabinet_Shelf_small2
+    3300026: Coffee_Table
+    3300028: Coffee_Table_Top
+    3300030: Cushion1
+    3300032: Cushion2
+    3300034: Door
+    3300036: Front_Door_L
+    3300038: Front_Door_R
+    3300040: Lounge
+    3300042: Main_Room
+    3300044: pCube23
+    3300046: pCube24
+    3300048: pCube25
+    3300050: pCube26
+    3300052: pCube27
+    3300054: pCube28
+    3300056: Raining
+    3300058: Rug2
+    3300060: Skirting
+    3300062: Table_small
+    4300000: Main_Room
+    4300002: Skirting
+    4300004: Table_small
+    4300006: Raining
+    4300008: Rug2
+    4300010: Cabinet_Base
+    4300012: Cabinet_frame
+    4300014: Cabinet_Shelf1
+    4300016: Cabinet_Shelf_small1
+    4300018: Cabinet_Divider1
+    4300020: Cabinet_Divider2
+    4300022: Cabinet_Door_L
+    4300024: pCube27
+    4300026: Cabinet_Door_R
+    4300028: pCube28
+    4300030: Cabinet_Door_FL1
+    4300032: pCube25
+    4300034: Cabinet_Door_TR
+    4300036: pCube26
+    4300038: Cabinet_Door_FL
+    4300040: pCube24
+    4300042: Cabinet_Door_FR
+    4300044: pCube23
+    4300046: Cabinet_Shelf_small2
+    4300048: Lounge
+    4300050: Cushion1
+    4300052: Cushion2
+    4300054: Coffee_Table
+    4300056: Coffee_Table_Top
+    4300058: Door
+    4300060: Front_Door_R
+    4300062: Front_Door_L
+    6400000: Cabinet_Base
+    6400002: Cabinet_Divider1
+    6400004: Cabinet_Divider2
+    6400006: Cabinet_Door_FL
+    6400008: Cabinet_Door_FL1
+    6400010: Cabinet_Door_FR
+    6400012: Cabinet_Door_L
+    6400014: Cabinet_Door_R
+    6400016: Cabinet_Door_TR
+    6400018: Cabinet_frame
+    6400020: Cabinet_Shelf1
+    6400022: Cabinet_Shelf_small1
+    6400024: Cabinet_Shelf_small2
+    6400026: Coffee_Table
+    6400028: Coffee_Table_Top
+    6400030: Cushion1
+    6400032: Cushion2
+    6400034: Door
+    6400036: Front_Door_L
+    6400038: Front_Door_R
+    6400040: Lounge
+    6400042: Main_Room
+    6400044: pCube23
+    6400046: pCube24
+    6400048: pCube25
+    6400050: pCube26
+    6400052: pCube27
+    6400054: pCube28
+    6400056: Raining
+    6400058: Rug2
+    6400060: Skirting
+    6400062: Table_small
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

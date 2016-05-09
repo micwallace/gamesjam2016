@@ -253,6 +253,50 @@ ModelImporter:
     4300082: Skirting
     4300084: LightSwitch_Housing
     4300086: LightSwitch
+    6400000: Bar_Stool
+    6400002: Bin
+    6400004: CeilingLight
+    6400006: CeilingLight1
+    6400008: Cold
+    6400010: Corner_Counter
+    6400012: Counter
+    6400014: Dining_Chair
+    6400016: Dining_Table
+    6400018: Door
+    6400020: Door_Knob
+    6400022: Fridge
+    6400024: FridgeDoor
+    6400026: Hot
+    6400028: Kichen_Draws
+    6400030: Kitchen_Cupboard_high
+    6400032: Kitchen_Cupboard_High_Door_L
+    6400034: Kitchen_Cupboard_High_Door_R
+    6400036: Kitchen_Cupboard_low
+    6400038: Kitchen_Cupboard_Low_Door_L
+    6400040: Kitchen_Cupboard_Low_Door_R
+    6400042: Kitchen_DiningRoom
+    6400044: Kitchen_Draw1
+    6400046: Kitchen_Draw2
+    6400048: Kitchen_Draw3
+    6400050: Kitchen_Draw4
+    6400052: LightSwitch
+    6400054: LightSwitch_Housing
+    6400056: Oven
+    6400058: Oven_Door1
+    6400060: Oven_Door2
+    6400062: Oven_Knob1
+    6400064: Oven_Knob2
+    6400066: Oven_Knob3
+    6400068: Oven_Knob4
+    6400070: Oven_Knob5
+    6400072: Picture_Frame_Med2
+    6400074: Sink
+    6400076: Sink_Door_L
+    6400078: Sink_Door_R
+    6400080: Skirting
+    6400082: Window_Frame
+    6400084: Window_Pane2
+    6400086: Window_Pane3
   materials:
     importMaterials: 1
     materialName: 0
@@ -279,7 +323,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
